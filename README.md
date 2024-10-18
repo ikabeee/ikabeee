@@ -48,10 +48,14 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="39" alt="npm logo"  />
   <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" height="39" alt="ubuntu logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png"     
+ height="39" alt="ubuntu logo"  />
   <img width="15" />
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="express logo"  />
   <img width="15" />
+    <img src="  https://nextui.org/apple-touch-icon.png" height="39" alt="Next UI Logo"  />
+  <img width="15" />
+
 </div>
 
 ###
