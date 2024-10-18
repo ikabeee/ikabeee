@@ -50,7 +50,7 @@
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" height="39" alt="ubuntu logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="39" alt="express logo"  />
+  <img src="https://www.peanutsquare.com/express-js-development/" height="39" alt="express logo"  />
   <img width="15" />
   
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="39" alt="express logo"  />
