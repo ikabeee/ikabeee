@@ -52,8 +52,7 @@
   <img width="15" />
   <img src="https://www.peanutsquare.com/express-js-development/" height="39" alt="express logo"  />
   <img width="15" />
-  
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="39" alt="express logo"  />
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="express logo"  />
   <img width="15" />
 </div>
 
