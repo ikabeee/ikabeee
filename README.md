@@ -53,9 +53,6 @@
   <img width="15" />
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="express logo"  />
   <img width="15" />
-    <img src="  https://nextui.org/apple-touch-icon.png" height="39" alt="Next UI Logo"  />
-  <img width="15" />
-
 </div>
 
 ###
