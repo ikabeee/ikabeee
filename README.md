@@ -12,41 +12,72 @@
 </div>
 
 ###
-
-<h2 align="left">💻 Tech Stack:</h2>
-
-###
-
+<h2 align="left">💻 Programming Languages:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="39" alt="php logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="39" alt="cplusplus logo"  />
+  <img width="15" />
+</div>
+<h2 align="left">🎨Front-end Stack:</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="39" alt="tailwind logo"  />
+  <img width="15" />
+</div>
+<h2 align="left">🔧 Backend Stack:</h2>
+
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" height="39" alt="tailwind logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="39" alt="nodejs logo"  />
   <img width="15" />
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="Express logo"  />
+  <img width="15" />
+</div>
+
+<h2 align="left">💾 Database Stack:</h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" alt="mysql logo"  />
   <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" height="39" alt="Postgres logo"  />
+  <img width="15" />
+</div>  
+
+<h2 align="left">🛠️ Tools:</h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="39" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="39" alt="npm logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://static-00.iconduck.com/assets.00/docker-icon-256x256-civ8fayy.png" height="39" alt="Docker logo"  />
+  <img width="15" />
+</div>
+
+<h2 align="left">💻 OS:</h2>
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png"     
  height="39" alt="ubuntu logo"  />
   <img width="15" />
+  <img src="https://seekvectors.com/files/download/Windows%2011-01.png"     
+ height="39" alt="Windows logo"  />
+  <img width="15" />   
+  <img src="https://pbs.twimg.com/profile_images/1636475840564277251/Zy28VSg1_400x400.png"     
+ height="39" alt="Windows logo"  />
+  <img width="15" />   
 </div>
 
 ###
