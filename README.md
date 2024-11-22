@@ -63,7 +63,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
   <img width="15" />
-  <img src="https://static-00.iconduck.com/assets.00/docker-icon-256x256-civ8fayy.png" height="39" alt="Docker logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="39" alt="Docker logo"  />
   <img width="15" />
 </div>
 
