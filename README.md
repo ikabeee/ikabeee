@@ -45,6 +45,8 @@
   <img width="15" />
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="Express logo"  />
   <img width="15" />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="39" alt="Prisma logo"  />
+  <img width="15" />
 </div>
 
 <h2 align="left">💾 Database Stack:</h2>
