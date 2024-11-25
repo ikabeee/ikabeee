@@ -67,6 +67,8 @@
   <img width="15" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="39" alt="Docker logo"  />
   <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height="39" alt="Bash logo"  />
+  <img width="15" />
 </div>
 
 <h2 align="left">💻 OS:</h2>
