@@ -39,23 +39,16 @@
 <h2 align="left">🔧 Backend Stack:</h2>
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" height="39" alt="tailwind logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" height="39" alt="NestJS logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="39" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="Express logo"  />
-  <img width="15" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="39" alt="Prisma logo"  />
   <img width="15" />
-</div>
-
-<h2 align="left">💾 Database Stack:</h2>
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" alt="mysql logo"  />
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" height="39" alt="Postgres logo"  />
   <img width="15" />
-</div>  
 
 <h2 align="left">🛠️ Tools:</h2>
 <div align="center">
