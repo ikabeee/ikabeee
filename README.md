@@ -69,7 +69,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png"     
  height="39" alt="ubuntu logo"  />
   <img width="15" />
-  <img src="https://support.plan.io/attachments/download/1454170/macos-logo@2x.png"     
+  <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png"     
  height="39" alt="MacOS logo"  />
   <img width="15" />
   <img src="https://seekvectors.com/files/download/Windows%2011-01.png"     
