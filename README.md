@@ -16,6 +16,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
   <img width="15" />
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="39" alt="Java logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
@@ -66,22 +68,6 @@
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height="39" alt="Bash logo"  />
   <img width="15" />
-</div>
-
-<h2 align="left">💻 OS:</h2>
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png"     
- height="39" alt="ubuntu logo"  />
-  <img width="15" />
-  <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png"     
- height="39" alt="MacOS logo"  />
-  <img width="15" />
-  <img src="https://seekvectors.com/files/download/Windows%2011-01.png"     
- height="39" alt="Windows logo"  />
-  <img width="15" />   
-  <img src="https://pbs.twimg.com/profile_images/1636475840564277251/Zy28VSg1_400x400.png"     
- height="39" alt="Windows logo"  />
-  <img width="15" />   
 </div>
 
 ###
