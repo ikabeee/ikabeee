@@ -41,6 +41,10 @@
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" height="39" alt="NestJS logo"  />
   <img width="15" />
+  <img src="https://img.icons8.com/color/512/spring-logo.png" height="39" alt="Srping boot logo"  />
+  <img width="15" />
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" height="39" alt="Express logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="39" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="39" alt="Prisma logo"  />
