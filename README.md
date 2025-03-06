@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi 👋! My name is Carlos and I'm a Fullstack Developer from Cancún, Mexico!</h1>
 
+<p>I am a software developer with a background in Software and Multiplatform Development, complemented by a Bachelor's degree in Administration and Organization Management. I have experience with technologies such as NestJS, ExpressJS, and recently Spring Boot, developing RESTful APIs.
+
+I have had the opportunity to participate in various competitions, such as the Hackaton Come Datos, where I was responsible for developing the API of a web application that centralizes university information. In this project, I implemented NestJS to create the backend, integrated PostgreSQL as the database, and designed endpoints for consumption in React using Axios.
+
+I stand out for my leadership, problem-solving, and critical thinking skills, which I have applied in both academic and professional environments. I am always eager to enhance my knowledge and stay up to date with the latest technological trends.</p>
+
 ````javascript
 const aboutMe={
   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"]
