@@ -13,7 +13,7 @@ const aboutMe={
     frontEnd: ["React", "TailwindCSS"],
     backeEnd: ["NestJS", "ExpressJS", "Spring-Boot", "Node"],
     databases: ["MongoDB", "SQL Server", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Bash", "NPM", "Docker"],
+    tools: ["Git", "Bash", "NPM", "Docker", "Linux"],
   },
 }
 ````
