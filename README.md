@@ -42,10 +42,3 @@ const aboutMe={
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ikabeee/count.svg?"  />
-</div>
-
-###
