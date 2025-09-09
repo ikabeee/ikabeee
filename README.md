@@ -8,11 +8,11 @@ I have had the opportunity to participate in various competitions, such as the H
 
 ````javascript
 const aboutMe={
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C#"],
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
   technologies: {
-    frontEnd: ["React", "TailwindCSS", "Angular"],
-    backeEnd: ["NestJS", "ExpressJS", "Spring-Boot", ".NET", "Node"],
-    databases: ["MongoDB", "SQL Server", "MySQL", "PostgreSQL"],
+    frontEnd: ["React", "TailwindCSS"],
+    backeEnd: ["NestJS", "ExpressJS", "NodeJS"],
+    databases: ["MySQL", "PostgreSQL"],
     tools: ["Git", "Bash", "NPM", "Docker", "Linux"],
   },
 }
